@@ -10,6 +10,8 @@ I’ve added a Flask app to run as a web application, offering a cleaner and mor
 - [pygame](https://www.pygame.org/): For playing sound effects.
 - [colorama](https://pypi.org/project/colorama): For adding color formatting to terminal output.
 
+ ![image](https://github.com/user-attachments/assets/85723b3a-e263-48a7-8e54-febb7680cd6c)
+
 2. For Flask Web App:
 
 - [Flask](https://flask.palletsprojects.com/en/3.0.x/): For building the web application.
@@ -20,5 +22,5 @@ You can install them using the following command:
 
 ![image](https://github.com/user-attachments/assets/d24fc2b2-e355-4584-b441-8f9d44b465e3)
 
-![image](https://github.com/user-attachments/assets/85723b3a-e263-48a7-8e54-febb7680cd6c)
+
 
