@@ -17,3 +17,8 @@ You can install them using the following command:
 
     ```bash
     pip install pynput pygame colorama flask
+
+![image](https://github.com/user-attachments/assets/d24fc2b2-e355-4584-b441-8f9d44b465e3)
+
+![image](https://github.com/user-attachments/assets/85723b3a-e263-48a7-8e54-febb7680cd6c)
+
